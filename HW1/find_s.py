@@ -4,7 +4,7 @@
 # SPECIFICATION:    Program that will read the file contact_lens.csv 
 #                   and output the hypothesis of Find-S algorithm
 # FOR:              CS 4200 - Assignment #1
-# TIME SPENT:       how long it took you to complete the assignment
+# TIME SPENT:       Around 20 minutes
 # -----------------------------------------------------------*/
 
 # IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
