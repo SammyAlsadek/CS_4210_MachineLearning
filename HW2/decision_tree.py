@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Sammy Alsadek
 # FILENAME: decision_tree.py
-# SPECIFICATION: 
+# SPECIFICATION: Program that calculates the accuracy of Machine Learning Models
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: 
+# TIME SPENT: 1 hour
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
