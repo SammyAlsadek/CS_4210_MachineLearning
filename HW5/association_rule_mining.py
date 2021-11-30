@@ -1,5 +1,5 @@
 # -------------------------------------------------------------------------
-# AUTHOR: your name
+# AUTHOR: Sammy Alsadek
 # FILENAME: association_rule_mining.py
 # SPECIFICATION:
 #   Completethe  Python  program  (association_rule_mining.py)  that  will  read  the  file retail_dataset.csv
